@@ -23,8 +23,8 @@ function Resume() {
             <h3 className="resume-title">Education</h3>
             <ResumeContent
               title="MCA from Motilal Nehru National Institute of Technology, Allahabad"
-              date="2019 - Present"
-              content={[`CGPA: 7.85 (Till 4th Sem)`]}
+              date="2019 - 2022"
+              content={[`CGPA: 7.85 (Till 5th Sem)`]}
             />
 
             <h3 className="resume-title">Skills</h3>
